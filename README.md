@@ -4,6 +4,10 @@ React音乐播放器
 ## 效果图
  !["效果图"](./static/images/demo.gif)
 
+## TODO
+1.显示歌词
+2.接入歌曲库，搜索播放
+
 ## Usage
 
 ```bash
